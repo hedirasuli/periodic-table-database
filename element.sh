@@ -31,3 +31,4 @@ else
     done
   fi
 fi
+# Database connection logic added
