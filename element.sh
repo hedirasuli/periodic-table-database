@@ -34,3 +34,4 @@ fi
 # Database connection logic added
 # Added error handling for missing elements
 # Refactored query for better readability
+# Final cleanup of the script
