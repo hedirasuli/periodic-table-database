@@ -32,3 +32,4 @@ else
   fi
 fi
 # Database connection logic added
+# Added error handling for missing elements
